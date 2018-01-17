@@ -20,6 +20,19 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 ### Day 1: 15 January 2018
 
+**Today's Progress**: Started building the Hello World App with an Udemy course: https://www.udemy.com/the-complete-ios-9-developer-course/learn/v4/overview. Learning the Xcode interface, took my old Macbook Pro considerable time to load everything. But project ready tofor editing.  Also tried to learn to quote code snippets in HTML without PHP coding... No such luck. Remembered to re-build my wordpress site and learn building without code that is not from scratch. Will update the site tomrrow  and link to the log.
+**Thoughts:** Need a basic refresher in HTML and CSS tags, will have to do that on the commute to work. Thiking about HTML/CSS canvas project as well. 
+**Link to work:** No Code yet :(
+
+### Day 2: 16 January 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+### Day 3: 17 January 2018
+
 **Today's Progress**: 
 **Thoughts:** 
 **Link to work:** No Code yet :(
