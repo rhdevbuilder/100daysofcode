@@ -26,14 +26,28 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 **Link to work:** No Code yet :(
 
-### Day 2: 16 January 2018
+### Day 2: 11 February 2018
+
+**Today's Progress**: Back from the baby hiatus! Trying to get an hour in each day despite not sleeping or exercising. Today thought of a jQuery exercise for a smooth scroll between divs, using a MIrrors edge-inspired color scheme. Just finished Mirrors Edge Catalyst on Xbox One and wanted to use the same color scheme. 
+**Thoughts**: Good to finish a quick exercise, probably took more than 1hr but satisfied with result. Changed from Javascript to jQuery for convenience, but still need to build up Javascript knowledge. 
+**Link to work:** http://jsfiddle.net/rowan_hillard/8063y79L/15/
+
+
+### Day 3: 12 February 2018
 
 **Today's Progress**: 
 **Thoughts:** 
 **Link to work:** No Code yet :(
 
 
-### Day 3: 17 January 2018
+### Day 3: 12 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+### Day 3: 12 February 2018
 
 **Today's Progress**: 
 **Thoughts:** 
