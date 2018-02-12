@@ -28,19 +28,18 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 ### Day 2: 11 February 2018
 
-**Today's Progress**: Back from the baby hiatus! Trying to get an hour in each day despite not sleeping or exercising. Today thought of a jQuery exercise for a smooth scroll between divs, using a MIrrors edge-inspired color scheme. Just finished Mirrors Edge Catalyst on Xbox One and wanted to use the same color scheme. 
+**Today's Progress**: Back from the baby hiatus! Trying to get an hour in each day despite not sleeping or exercising. Today thought of a jQuery exercise for a smooth scroll between divs, using a Mirrors edge-inspired color scheme. Just finished Mirrors Edge Catalyst on Xbox One and wanted to use the same color scheme. 
 **Thoughts**: Good to finish a quick exercise, probably took more than 1hr but satisfied with result. Changed from Javascript to jQuery for convenience, but still need to build up Javascript knowledge. 
 **Link to work:** http://jsfiddle.net/rowan_hillard/8063y79L/15/
 
 
 ### Day 3: 12 February 2018
 
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
+**Today's Progress**: Looking to try a project in Three.js after coming across "the Aviator" (https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/). Codrops is a beautiful website with awesome tutorials! Interesting language syntax but would love to be able to create 3D animations purely from code. 
+**Thoughts:** Despite having an automatic debugger in jsfiddle, I can't even make the cube appear! Although I am so very tired...
+**Link to work:** http://jsfiddle.net/rowan_hillard/esjj54wp/26/
 
-
-### Day 3: 12 February 2018
+### Day 4: 13 February 2018
 
 **Today's Progress**: 
 **Thoughts:** 
