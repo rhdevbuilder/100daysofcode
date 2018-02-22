@@ -39,14 +39,70 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 **Thoughts:** Despite having an automatic debugger in jsfiddle, I can't even make the cube appear! Although I am so very tired...
 **Link to work:** http://jsfiddle.net/rowan_hillard/esjj54wp/26/
 
-### Day 4: 13 February 2018
+### Day 4: 21 February 2018
+
+**Today's Progress**: Many days have progressed and whilst I haven't updated anything in the log, I have been studying and taking notes, checking tutorials but nothing concrete. Having a baby certainly hasn't made it easy to study.
+**Thoughts:** Instead of chasing a variety of coding disciplines I found it best to focus on only 1 or 2 disciplines at once before moving onto the next. The focus will be finishing the CSS Grid exercises and completing a basic js/jQuery course: https://www.udemy.com/javascript-and-jquery-basics-for-beginners/learn
+**Link to work:** Nil for now.
+
+
+### Day 3: 22 February 2018
 
 **Today's Progress**: 
 **Thoughts:** 
 **Link to work:** No Code yet :(
 
 
-### Day 3: 12 February 2018
+
+### Day 3: 23 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:** No Code yet :(
+
+
+
+### Day 3: 24 February 2018
 
 **Today's Progress**: 
 **Thoughts:** 
