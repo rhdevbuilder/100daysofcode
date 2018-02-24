@@ -46,63 +46,34 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 **Link to work:** Nil for now.
 
 
-### Day 3: 22 February 2018
+### Day 5: 22 February 2018
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: Working my way through JS course on Codeacademy. As its been so long since I last worked with JS, I reset the progress and started from scratch.   
+**Thoughts:** JS courses are hard to learn by only teaching individual items with no context or syntax. I swear I'm going to make an Udemy course one day to teach beginner JS...
+**Link to work:** No code today.
+
+### Day 6: 23 February 2018
+**Today's Progress**: Continued JS course
+**Thoughts:** Also looking at JS course on Udemy at the same time, but while the Codeacademy course has no syntax, this Udemy course has no structure or blocks to build upon, no natural progression.
+**Link to work:** No Code today.
+
+
+### Day 7: 24 February 2018
+**Today's Progress**: Working through CSS and CSS Grid, including making a responsive CSS Grid. I can see myself using this often in future works. Its a very easy model with easy flexibility.
+**Thoughts:** Unsure of the difference between Flex and Grid, but working my way through CSS Grid. 
+**Link to work:** Constructed CSS Responsive image gallery: http://jsfiddle.net/rowan_hillard/t2u4718m/107/
+
+
+
+### Day 8: 25 February 2018
+
+**Today's Progress**: jQuery animate() fiddle, wanted to make an animation bar using only CSS and jQuery.
+**Thoughts:** Started a 
 **Link to work:** No Code yet :(
 
 
 
-### Day 3: 23 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
-
-**Today's Progress**: 
-**Thoughts:** 
-**Link to work:** No Code yet :(
-
-
-
-### Day 3: 24 February 2018
+### Day X: Template date
 
 **Today's Progress**: 
 **Thoughts:** 
