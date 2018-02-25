@@ -47,10 +47,10 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 
 ### Day 5: 22 February 2018
-
 **Today's Progress**: Working my way through JS course on Codeacademy. As its been so long since I last worked with JS, I reset the progress and started from scratch.   
 **Thoughts:** JS courses are hard to learn by only teaching individual items with no context or syntax. I swear I'm going to make an Udemy course one day to teach beginner JS...
 **Link to work:** No code today.
+
 
 ### Day 6: 23 February 2018
 **Today's Progress**: Continued JS course
@@ -64,9 +64,7 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 **Link to work:** Constructed CSS Responsive image gallery: http://jsfiddle.net/rowan_hillard/t2u4718m/107/
 
 
-
 ### Day 8: 25 February 2018
-
 **Today's Progress**: jQuery animate() fiddle, wanted to make an animation bar using only CSS and jQuery.
 **Thoughts:** Started a 
 **Link to work:** No Code yet :(
