@@ -66,7 +66,23 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 ### Day 8: 25 February 2018
 **Today's Progress**: jQuery animate() fiddle, wanted to make an animation bar using only CSS and jQuery.
-**Thoughts:** Started a 
+**Thoughts:**  
+**Link to work:** No Code yet :(
+
+
+
+### Day 9: 26 February 2018
+
+**Today's Progress**: CSS Variables course on scrimba. https://scrimba.com/g/gcssvariables
+**Thoughts:** Intersting use of variables in CSS, probably an excellent gateway to SASS in future. I can see how useful it is to change the root variables only once to change the entire DOM. Probably another hour or so of fiddling around with this then onto Slidr.js work!
+**Link to work:** https://jsfiddle.net/rowan_hillard/2ja1yj2w/15/
+
+
+
+### Day10: 27 February 2018
+
+**Today's Progress**: 
+**Thoughts:** 
 **Link to work:** No Code yet :(
 
 
