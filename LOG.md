@@ -95,9 +95,14 @@ Going thorugh my backlog and bookmarks of things I want to do including:
 
 **Thoughts:** 
 
-**Link to work:** No Code yet :(
+**Link to work:** 
 
 
+### Day 11: 10 March 2018
+
+**Today's Progress**: CSS animations today, with basic javascript course on Codeacademy. 
+**Thoughts:** Why do children make you so tired..? Had to copy and paste all my pens from jsFiddle to Codepen as my works often never save and after recently losing some work, decided to make the change to switch.
+**Link to work:** https://codepen.io/rowanCodepen/pen/BrNMap
 
 ### Day X: Template date
 
